@@ -1,0 +1,13 @@
+C:\Users\Yo\source\repos\Metodos-de-ordenamiento\Metodos-de-ordenamiento\bin\Debug\Metodos-de-ordenamiento.exe.config
+C:\Users\Yo\source\repos\Metodos-de-ordenamiento\Metodos-de-ordenamiento\bin\Debug\Metodos-de-ordenamiento.exe
+C:\Users\Yo\source\repos\Metodos-de-ordenamiento\Metodos-de-ordenamiento\bin\Debug\Metodos-de-ordenamiento.pdb
+C:\Users\Yo\source\repos\Metodos-de-ordenamiento\Metodos-de-ordenamiento\obj\Debug\Metodos-de-ordenamiento.csprojResolveAssemblyReference.cache
+C:\Users\Yo\source\repos\Metodos-de-ordenamiento\Metodos-de-ordenamiento\obj\Debug\Metodos_de_ordenamiento.Properties.Resources.resources
+C:\Users\Yo\source\repos\Metodos-de-ordenamiento\Metodos-de-ordenamiento\obj\Debug\Metodos-de-ordenamiento.csproj.GenerateResource.cache
+C:\Users\Yo\source\repos\Metodos-de-ordenamiento\Metodos-de-ordenamiento\obj\Debug\Metodos-de-ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\Yo\source\repos\Metodos-de-ordenamiento\Metodos-de-ordenamiento\obj\Debug\Metodos-de-ordenamiento.exe
+C:\Users\Yo\source\repos\Metodos-de-ordenamiento\Metodos-de-ordenamiento\obj\Debug\Metodos-de-ordenamiento.pdb
+C:\Users\Yo\source\repos\Metodos-de-ordenamiento\Metodos-de-ordenamiento\obj\Debug\Metodos_de_ordenamiento.Menu.resources
+C:\Users\Yo\source\repos\Metodos-de-ordenamiento\Metodos-de-ordenamiento\obj\Debug\Metodos_de_ordenamiento.Internos.resources
+C:\Users\Yo\source\repos\Metodos-de-ordenamiento\Metodos-de-ordenamiento\obj\Debug\Metodos_de_ordenamiento.GraphTiempoM_E.resources
+C:\Users\Yo\source\repos\Metodos-de-ordenamiento\Metodos-de-ordenamiento\obj\Debug\Metodos_de_ordenamiento.Externos.resources
